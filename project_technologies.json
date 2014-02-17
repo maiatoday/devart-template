@@ -1,16 +1,18 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "twitter"
         ],
         "platforms": [
-            "insert platforms"
+            "Android"
         ],
         "toolkits": [
-            "insert toolkits"
+            "opencv"
         ]
     },
     "themes": [
-        "insert themes"
+        "recognise",
+        "software layers",
+        "user control"
     ]
 }
