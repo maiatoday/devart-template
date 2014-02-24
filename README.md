@@ -1,4 +1,4 @@
-# DevArt Template
+# DevArt Template [![Build Status](https://travis-ci.org/maiatoday/devart-template.png?branch=master)](https://travis-ci.org/maiatoday/devart-template)
 
 This repository is where you will populate your Project Page on the DevArt site. It is also where you will build your code and document your process. Your page on DevArt will change every time you make changes to your code and push this repository to GitHub, pending moderation by the DevArt team. You will be able to preview the changes on your Project Page on DevArt after you push to GitHub. All submissions in GitHub will need to be entered in English. 
 
