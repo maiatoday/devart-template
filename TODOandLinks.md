@@ -4,6 +4,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 G+ references:
 https://developers.google.com/+/quickstart/android
 https://developers.google.com/+/mobile/android/getting-started
+https://developers.google.com/+/mobile/android/share/
 
 Google console:
 https://cloud.google.com/console/project
