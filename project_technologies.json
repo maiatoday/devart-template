@@ -1,7 +1,6 @@
 {
     "technologies": {
         "apis": [
-            "twitter",
             "g+"
         ],
         "platforms": [
