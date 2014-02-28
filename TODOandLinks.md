@@ -9,6 +9,10 @@ https://developers.google.com/+/mobile/android/share/
 Google console:
 https://cloud.google.com/console/project
 
+ColourThief stuff:
+http://chris.banes.me/2014/02/18/colour-matching/
+https://github.com/biometrics/imagingbook/blob/master/src/color/MedianCutQuantizer.java
+
 TODO
 ~~add google+ instead or in addition to twitter (no twitter auth crashes)~~
 ~~make share button be an icon on the actionbar~~
