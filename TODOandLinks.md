@@ -17,4 +17,5 @@ TODO
 ~~install gapps on genymotion emulator so I can test~~
  * g+ info in first image
  * face recognition show
+ * make the image mutating architecture easier to work with
 
