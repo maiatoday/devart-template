@@ -1,14 +1,16 @@
 language: java
 jdk: oraclejdk7
 before_install:
-    # Install base Android SDK
-    - sudo apt-get update -qq
-    - sudo apt-get install -qq libstdc++6:i386 lib32z1
-    - export COMPONENTS=build-tools-19.0.1,android-19,sysimg-19,extra
-    - curl -L https://raw.github.com/embarkmobile/android-sdk-installer/master/android-sdk-installer | bash /dev/stdin --install=$COMPONENTS
-    - source ~/.android-sdk-installer/env
-    - export TERM=dumb # to get clean gradle output
-
+- sudo apt-get update -qq
+- sudo apt-get install -qq libstdc++6:i386 lib32z1
+- export COMPONENTS=build-tools-19.0.1,android-19,sysimg-19,extra
+- curl -L https://raw.github.com/embarkmobile/android-sdk-installer/master/android-sdk-installer
+  | bash /dev/stdin --install=$COMPONENTS
+- source ~/.android-sdk-installer/env
+- export TERM=dumb
 before_script: cd project_code/DevArt
-
 script: ./gradlew assembleDebug
+after_success: ./update-gh-pages.sh
+env:
+  global:
+    secure: jnFsjiZSBmOrYPnL4syeLZ1BTJpkECdW2XwdkdjypsIJZ56H+g+m44WVSvLwKnrdbuuozOgqf59rl+4xEBGC0kBacWl9ckC6oX5o04IdA389+363YC0VIeDMDj8/d2bklVMoyCpkz2utQP9ktLsqeegihiMHxYdE19b4DoKTsSM=
