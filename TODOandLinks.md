@@ -18,8 +18,11 @@ TODO
 ~~make share button be an icon on the actionbar~~
  * figure out if I can do the image modifications without opencv. I won't have edge detect
  * look at [colorthief](https://github.com/lokesh/color-thief/blob/master/js/color-thief.js)
+ * alternatively use imagingbook Median Cut Quantizer
 ~~install gapps on genymotion emulator so I can test~~
  * g+ info in first image
- * face recognition show
+~~face recognition show~~
  * make the image mutating architecture easier to work with
+ * renderscript?
+
 
