@@ -2,7 +2,7 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   echo -e "Starting to update gh-pages\n"
 
   #copy data we're interested in to other place
-  cp -R project_code/DevArt/app/build/apk $HOME/apk
+  cp -R app/build/apk $HOME/apk
 
   #go to home and setup git
   cd $HOME
@@ -12,7 +12,7 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   #using token clone gh-pages branch
   git clone --quiet --branch=gh-pages https://${GH_TOKEN}@github.com/maiatoday/devart-template.git  gh-pages > /dev/null
 
-  #go into diractory and copy data we're interested in to that directory
+  #go into directory and copy data we're interested in to that directory
   cd gh-pages
   cp -Rf $HOME/apk/* .
 
