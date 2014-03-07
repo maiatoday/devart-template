@@ -24,5 +24,6 @@ TODO
 ~~face recognition show~~
  * make the image mutating architecture easier to work with
  * renderscript?
+ * why does the app crash on my phone - it's the ci server build one that crashes, but why?
 
 
