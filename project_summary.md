@@ -11,9 +11,9 @@ There are more ideas: My phone can recognises me. Can I make it alter images I p
 
 To seed this project I will take an [Android app exploration](https://github.com/maiatoday/autoSelfie) which I wrote recently and play with it some more. 
 
-[![Build Status](https://travis-ci.org/maiatoday/devart-template.png?branch=master)](https://travis-ci.org/maiatoday/devart-template)
 
 ## Link to Prototype
 
 [app on github](https://github.com/maiatoday/devart-template/tree/master/project_code/DevArt)
-[link to apk](http://maiatoday.github.io/devart-template/)
+
+[link to apk](http://maiatoday.github.io/devart-template/)[![Build Status](https://travis-ci.org/maiatoday/devart-template.png?branch=master)](https://travis-ci.org/maiatoday/devart-template)
