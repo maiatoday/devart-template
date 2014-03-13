@@ -1,7 +1,7 @@
 # IllegalArgumentException 
 ```throw new IllegalArgumentException("Problem decoding into existing bitmap");```
 
-## Authors
+## Maia Grotepass
 - [Maia Grotepass](https://github.com/maiatoday)
 
 ## Description
