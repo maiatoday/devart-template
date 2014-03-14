@@ -13,18 +13,35 @@ ColourThief stuff:
 http://chris.banes.me/2014/02/18/colour-matching/
 https://github.com/biometrics/imagingbook/blob/master/src/color/MedianCutQuantizer.java
 
-TODO
-~~add google+ instead or in addition to twitter (no twitter auth crashes)~~
-~~make share button be an icon on the actionbar~~
+#### TODO
+ * ~~add google+ instead or in addition to twitter (no twitter auth crashes)~~
+ * ~~make share button be an icon on the actionbar~~
  * figure out if I can do the image modifications without opencv. I won't have edge detect
  * look at [colorthief](https://github.com/lokesh/color-thief/blob/master/js/color-thief.js)
-~~alternatively use imagingbook Median Cut Quantizer~~
-~~install gapps on genymotion emulator so I can test~~
+ * ~~alternatively use imagingbook Median Cut Quantizer~~
+ * ~~install gapps on genymotion emulator so I can test~~
  * g+ info in first image
-~~face recognition show~~
-~~make the image mutating architecture easier to work with~~
+ * ~~face recognition show~~
+ * ~~make the image mutating architecture easier to work with~~
  * renderscript?
  * why does the app crash on my phone - it's the ci server build one that crashes, but why?
  * more cogs
+ * add blackbox shake
+ * see what I can get from g+
+
+#### TODO before I can put it on play
+ *  ~~fix the threading issue~~
+ * do g+ starting portrait
+ * do the signing config in build.gradle
+ * make some assets for play
+
+#### Cogs ideas
+ * Lsystem cog
+ * make the DotCog dial saturation up or down
+ * GlitchCog Rule of thirds
+ * GlitchCog and face interaction
+ * More eyeCogs
+ * DotCog vary Benday dot sizes
+ * Search terms for status strings
 
 
