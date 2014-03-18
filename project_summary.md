@@ -16,4 +16,8 @@ To seed this project I will take an [Android app exploration](https://github.com
 
 [app on github](https://github.com/maiatoday/devart-template/tree/master/project_code/DevArt)
 
-[link to app on play](https://play.google.com/store/apps/details?id=za.co.maiatoday.devart)[![Build Status](https://travis-ci.org/maiatoday/devart-template.png?branch=master)](https://travis-ci.org/maiatoday/devart-template)
+[![Build Status](https://travis-ci.org/maiatoday/devart-template.png?branch=master)](https://travis-ci.org/maiatoday/devart-template)
+<a href="https://play.google.com/store/apps/details?id=za.co.maiatoday.devart">
+  <img alt="Android app on Google Play"
+       src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
+</a>
