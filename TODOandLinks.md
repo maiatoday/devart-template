@@ -16,24 +16,29 @@ https://github.com/biometrics/imagingbook/blob/master/src/color/MedianCutQuantiz
 Lsystem
 http://algorithmicbotany.org/papers/WebApps/LSystems/LSys.java
 
-#### TODO
+#### TODO to complete
+ * test on old phone
+ * do g+ starting portrait
+ * update project description
+
+#### TODO stretch
+ * Lsystem cog
+ * Search terms for status strings
+
+
+#### DONE
  * ~~add google+ instead or in addition to twitter (no twitter auth crashes)~~
  * ~~make share button be an icon on the actionbar~~
- * figure out if I can do the image modifications without opencv. I won't have edge detect
- * look at [colorthief](https://github.com/lokesh/color-thief/blob/master/js/color-thief.js)
  * ~~alternatively use imagingbook Median Cut Quantizer~~
  * ~~install gapps on genymotion emulator so I can test~~
  * ~~face recognition show~~
  * ~~make the image mutating architecture easier to work with~~
- * renderscript?
  * ~~why does the app crash on my phone - it's the ci server build one that crashes, but why?~~
- * more cogs
  * ~~add blackbox shake~~
  * ~~see what I can get from g+~~
 
 #### TODO before I can put it on play
- *  ~~fix the threading issue~~
- * do g+ starting portrait
+ * ~~fix the threading issue~~
  * ~~do the signing config in build.gradle~~
  * ~~make some assets for play~~
 
@@ -45,5 +50,10 @@ http://algorithmicbotany.org/papers/WebApps/LSystems/LSys.java
  * More eyeCogs
  * DotCog vary Benday dot sizes
  * Search terms for status strings
+
+#### Later ideas
+ * renderscript?
+ * figure out if I can do the image modifications without opencv. I won't have edge detect
+ * look at [colorthief](https://github.com/lokesh/color-thief/blob/master/js/color-thief.js)
 
 
