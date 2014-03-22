@@ -4,10 +4,7 @@ The cogs have changed but there still isn't nearly enough variation. I now have 
 
 ###### apk
 Just to make sure I made the build make a signed version and loaded the app onto play. It is far from finished but in the spirit of [release early release often](http://en.wikipedia.org/wiki/Release_early,_release_often) the app is in the wild. Just as well I did because I couldn't upload any files to play for 3 days. 
-<a href="https://play.google.com/store/apps/details?id=za.co.maiatoday.devart">
-  <img alt="Android app on Google Play"
-       src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
-</a>
+[![Android app on Google Play][1]][2]
 
 ###### a portrait from g+
 At the moment it just pulls the g+ avatar when it signs in but this could be a g+ data enriched portrait.
@@ -26,6 +23,9 @@ Installation: Can this intimate/internet piece be made to work in a gallery spac
  * change the glitch zones from just using bands, maybe bring the code back that put the glitches on user paths
  * what about a little L-system overlay that seeds from age and number of circles
  * how to integrate the info I get from Google+
+
+[1]: https://developer.android.com/images/brand/en_app_rgb_wo_45.png
+[2]: https://play.google.com/store/apps/details?id=za.co.maiatoday.devart
 
 
 
