@@ -16,6 +16,17 @@ https://github.com/biometrics/imagingbook/blob/master/src/color/MedianCutQuantiz
 Lsystem
 http://algorithmicbotany.org/papers/WebApps/LSystems/LSys.java
 
+
+#### Visual reference
+http://wpcontent.answcdn.com/wikipedia/commons/thumb/0/00/PaperTapes-5and8Hole.jpg/300px-PaperTapes-5and8Hole.jpg
+http://www.ringbell.co.uk/ukwmo/Page233.htm
+http://www.stencilwarehouse.com/acatalog/Benday_8mm_holes_4mm_6530_LG.jpg
+http://4.bp.blogspot.com/-MkJjrsDBGww/TsDZIgMfpVI/AAAAAAAAAsk/04D6M_TlBpY/s1600/LICHTENSTEIN+1997+Landscape+with+Scholar%2527s+Rock.jpg
+http://2.bp.blogspot.com/-pifD3yCeLe0/UeQd5BPCaJI/AAAAAAAACGg/5eVMJUMF6Xk/s320/IMG_20130715_131923.jpg
+http://en.wikipedia.org/wiki/Punched_tape
+http://en.wikipedia.org/wiki/Baudot_code
+https://www.google.co.za/search?q=baudot+code+paper+tape&espv=2&es_sm=91&tbm=isch&tbo=u&source=univ&sa=X&ei=yZowU8q7JuSU7QbvkoCgBg&ved=0CFMQsAQ&biw=1301&bih=656
+
 #### TODO to complete
  * test on old phone
  * do g+ starting portrait
