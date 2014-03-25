@@ -21,7 +21,7 @@ Images from the app are transferred to a server. In the physical space four comp
 ##### Hardware and material
 * 8 projectors
 * 8 Pcs running ubuntu with internet access and TCP/IP connection to each other
-* strip white translucent vinyl (1.2m x 12.8m)
+* strip white translucent vinyl (1m x 10m)
 * gut and clips to suspend
 
 
