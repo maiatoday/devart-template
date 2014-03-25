@@ -1,5 +1,6 @@
 ##### spring board
-Looking back in my work book and old blog posts I found some images that inform this work. 
+Looking back in my work book and old blog posts I found some images that inform this work.
+
 ![1][1] 
 ![2][2] 
 ![3][3] 
