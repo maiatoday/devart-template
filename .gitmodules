@@ -1,0 +1,3 @@
+[submodule "project_code/ribbon"]
+	path = project_code/ribbon
+	url = https://github.com/maiatoday/ribbon.git
