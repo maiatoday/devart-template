@@ -16,6 +16,9 @@ https://github.com/biometrics/imagingbook/blob/master/src/color/MedianCutQuantiz
 Lsystem
 http://algorithmicbotany.org/papers/WebApps/LSystems/LSys.java
 
+Most-Pixels-Ever
+https://github.com/shiffman/Most-Pixels-Ever-Processing/
+
 
 #### Visual reference
 http://wpcontent.answcdn.com/wikipedia/commons/thumb/0/00/PaperTapes-5and8Hole.jpg/300px-PaperTapes-5and8Hole.jpg
