@@ -34,10 +34,18 @@ https://www.google.co.za/search?q=baudot+code+paper+tape&espv=2&es_sm=91&tbm=isc
  * test on old phone
  * do g+ starting portrait
  * update project description
+ * make project image 
+   # photo
+   # screenshot
+   # edit
+ * make video of app and upload to youtube
+ * ~~make installation gifs~~
+ * mark as done
 
 #### TODO stretch
  * Lsystem cog
  * Search terms for status strings
+ * Baudot dots of g+ text here
 
 
 #### DONE

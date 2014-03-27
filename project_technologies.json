@@ -7,12 +7,17 @@
             "Android"
         ],
         "toolkits": [
-            "opencv"
+            "openframeworks",
+            "ofxMostPixelsEver"
         ]
     },
     "themes": [
         "recognise",
         "software layers",
-        "user control"
+        "user control",
+        "intimate and/or public",
+        "bit shifting",
+        "mediated images",
+        "mirror"
     ]
 }
