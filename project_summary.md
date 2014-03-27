@@ -20,15 +20,13 @@ The app lets you take an image and modifies it. This image is uploaded to a serv
 http://youtu.be/CCLwW-z-zSk
 
 ### Installation
-
+![strip01.resized](project_images/strip01.resized.gif?raw=true "strip01.resized")
 The installation consists of a ribbon of translucent material that is suspended in the centre of the space. It can be viewed from both sides. It is at eye height but you can see the feet of the people on the other side. It is a floating [FIFO](http://en.wikipedia.org/wiki/FIFO) buffer where images come in from the one side and shift. It is a image memory-word with bits/images [shifted right](http://en.wikipedia.org/wiki/Logical_right_shift) at a continous tempo looping through a cache of images from previous posts. When a new image is created by the app, the image is added to the end of the image queue.
 
-![strip01.resized](project_images/strip01.resized.gif?raw=true "strip01.resized")
-
+![strip02.resized](project_images/strip02.resized.gif?raw=true "strip02.resized")
 You stand infront of the ribbon looking at your mediated self or someone else. On the other side of the ribbon is another person looking at the same image, mirrored, but you cannot see each other's face. You see the bottom half of the person on the otherside with faces shifting over it. You can add an image to the FIFO ribbon with the app.
 
-![strip02.resized](project_images/strip02.resized.gif?raw=true "strip02.resized")
-TODO add photo of screen here
+![IMG_0944](project_images/IMG_0944.JPG?raw=true "IMG_0944")
 
 #### Installation equipment
 * 8 projectors
@@ -37,6 +35,7 @@ TODO add photo of screen here
 * gut and clips to suspend
 
 ## Concepts and choices
+![s4.resized](project_images/s4.resized.gif?raw=true "s4.resized")
 ### Themes
 Portraits, self-portraits, autoportrait, selfie because it's old and new and personal. Because something/someone else changing/interpreting an image of me could be flattering and/or unnerving. Because it changes how other people see me. Because it reveals and hides something at the same time. Is there a likeness in the portrait? Who can see the likeness, the subject, the algorithm, the people in my circles, the machines on the way? 
 

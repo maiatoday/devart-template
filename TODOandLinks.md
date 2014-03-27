@@ -33,13 +33,13 @@ https://www.google.co.za/search?q=baudot+code+paper+tape&espv=2&es_sm=91&tbm=isc
 #### TODO to complete
  * test on old phone
  * do g+ starting portrait
- * upload version on play store
- * update project description
+ * ~~upload version on play store~~
+ * ~~update project description~~
  * make project image 
    # photo
    # screenshot
    # edit
- * make video of app and upload to youtube
+ * ~~make video of app and upload to youtube~~
  * ~~make installation gifs~~
  * mark as done
 
