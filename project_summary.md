@@ -13,7 +13,7 @@ There are more ideas: My phone can recognises me. Can I make it alter images I p
 The project has an Android App and an installation component. 
 
 ### App
-![device-2014-03-27-105703](../project_images/device-2014-03-27-105703.png?raw=true "device-2014-03-27-105703") 
+![device-2014-03-27-105703](project_images/device-2014-03-27-105703.png?raw=true "device-2014-03-27-105703") 
 
 The app lets you take an image and modifies it. This image is uploaded to a server or can be shared on Google+. The app creates the visual elements of the installation. The app uses Median Cut Quantisation to pick out colours that occur often. It then uses this information to influence the dot placement. It does face recognition to determine where the eyes are. IT then applies bit shift glitches to areas in the image. It also uses face recognition to see if the resulting image has a face in it.
 
@@ -25,8 +25,8 @@ The installation consists of a ribbon of translucent material that is suspended 
 
 You stand infront of the ribbon looking at your mediated self or someone else. On the other side of the ribbon is another person looking at the same image but you cannot see each other's face. You can add an image to the FIFO with the app.
 
-![strip01.resized](../project_images/strip01.resized.gif?raw=true "strip01.resized")
-![strip02.resized](../project_images/strip02.resized.gif?raw=true "strip02.resized")
+![strip01.resized](project_images/strip01.resized.gif?raw=true "strip01.resized")
+![strip02.resized](project_images/strip02.resized.gif?raw=true "strip02.resized")
 TODO add photo of screen here
 
 #### Installation equipment
