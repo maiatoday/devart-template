@@ -23,9 +23,10 @@ http://youtu.be/CCLwW-z-zSk
 
 The installation consists of a ribbon of translucent material that is suspended in the centre of the space. It can be viewed from both sides. It is at eye height but you can see the feet of the people on the other side. It is a floating [FIFO](http://en.wikipedia.org/wiki/FIFO) buffer where images come in from the one side and shift. It is a image memory-word with bits/images [shifted right](http://en.wikipedia.org/wiki/Logical_right_shift) at a continous tempo looping through a cache of images from previous posts. When a new image is created by the app, the image is added to the end of the image queue.
 
+![strip01.resized](project_images/strip01.resized.gif?raw=true "strip01.resized")
+
 You stand infront of the ribbon looking at your mediated self or someone else. On the other side of the ribbon is another person looking at the same image, mirrored, but you cannot see each other's face. You see the bottom half of the person on the otherside with faces shifting over it. You can add an image to the FIFO ribbon with the app.
 
-![strip01.resized](project_images/strip01.resized.gif?raw=true "strip01.resized")
 ![strip02.resized](project_images/strip02.resized.gif?raw=true "strip02.resized")
 TODO add photo of screen here
 
